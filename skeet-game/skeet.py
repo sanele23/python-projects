@@ -1,9 +1,6 @@
 """
-File: skeet.py
-Original Author: Br. Burton
-Designed to be completed by others
-
 This program implements an awesome version of skeet.
+It uses the python arcade library.
 """
 import arcade
 import math
